@@ -1,16 +1,21 @@
-# fitness
+# 🍽️ Flutter Fitness & Meal Recommendation App
 
-A new Flutter project.
+This project is a **Fitness and Meal Recommendation App** developed with **Flutter**. Users can explore breakfast options, browse meal categories, and get diet recommendations.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ **Search Bar** to filter meals easily.  
+✅ **Category Cards** to explore different meal types.  
+✅ **Diet Recommendations** for healthy meal alternatives.  
+✅ **Popular Meals** section to check out trending dishes.  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** (Dart) - Mobile UI development  
+- **Custom Widgets** - Reusable and flexible UI components  
+
